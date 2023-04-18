@@ -1,0 +1,1 @@
+document.querySelectorAll('fruits-title');
